@@ -1,0 +1,13 @@
+* Input file for convert from ims to input of tomography JointInversion_Tutorial
+* the line start with * will be skip
+HiKnet_20142016_ims_input.dat
+* Data type (1=local,2=all. If local use the parameter below)
+1
+* The region access the data 
+* latmin - latmax
+26.0 32.0
+* longmin - long max
+78. 88.
+* depmin - depmax
+0 10
+* end of file
